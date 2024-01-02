@@ -5,3 +5,5 @@ print("i am frustrated")
 
 
 what <- rnorm(10)
+
+what2 <- what * 5
